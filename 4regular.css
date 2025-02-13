@@ -33,7 +33,7 @@ a.nav-item:last-of-type { /*-- last-of-type selector --*/
     max-height: 20rem; /*-- not more than --*/
     border: 2px dashed #CCC; /*-- thickness, style, color --*/ 
     border-radius: 10px 10px 0 0; /*-- clockwise from top-left corner --*/
-    box-shadow: 2px 2px 16px 1 px #000; /*-- x, y, blur, spread, color --*/
+    box-shadow: 2px 2px 16px 1px #000; /*-- x, y, blur, spread, color --*/
 }
 .circle {
     position: absolute; /*-- out of flow --*/
