@@ -1,0 +1,12 @@
+body {
+    background-image: url('../up/one/level/to/image.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+.splash-area {
+    background: linear-gradient(to left top, blue, red);
+}
+.second-splash {
+    background: linear-gradient()
+}
